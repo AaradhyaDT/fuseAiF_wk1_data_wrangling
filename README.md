@@ -22,9 +22,9 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-2. Open and run notebooks from [M1/WK1/notebooks](M1/WK1/notebooks) in Jupyter or VS Code.
+1. Open and run notebooks from [M1/WK1/notebooks](M1/WK1/notebooks) in Jupyter or VS Code.
 
-3. To initialize the sample SQL database (if required for exercises):
+2. To initialize the sample SQL database (if required for exercises):
 
 ```powershell
 # run this from the WK1 root
